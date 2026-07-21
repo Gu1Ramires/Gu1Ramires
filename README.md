@@ -1,7 +1,9 @@
 <h1 align="center">Eae, Tudo Certo?👋</h1>
-<h3 align="center">Meu nome é Guilherme Ramires, Sou Técnico em informática e estudante de Sistemas da informação.</h3>
+<h3 align="center">Product Designer | UI UX Designer | Desenvolvimento de Interfaces  | Figma
 
-- Trabalhando recentemente em um projeto para comunicação para TEA [TEA Comunikar](https://organizacaomogiana.sharepoint.com/sites/202501-GestodeProjetos-5B-SIe6B_Eng.SW-Noturno/Student%20Work/Forms/AllItems.aspx?id=%2Fsites%2F202501%2DGestodeProjetos%2D5B%2DSIe6B%5FEng%2ESW%2DNoturno%2FStudent%20Work%2FWorking%20files%2FGUILHERME%20RAMIRES%20LANA%2FEntrega%20de%20Projeto%20%28A2%29%2FTEA%20COMUNIKAR%2Epdf&parent=%2Fsites%2F202501%2DGestodeProjetos%2D5B%2DSIe6B%5FEng%2ESW%2DNoturno%2FStudent%20Work%2FWorking%20files%2FGUILHERME%20RAMIRES%20LANA%2FEntrega%20de%20Projeto%20%28A2%29)
+</h3>
+
+- Trabalhando recentemente em meu projeto 100% autoral ( SOURCE ) Minha marca de Roupa )
 
 - neste momento estou aprendendo **Power Bi e Machine Learning**
 
