@@ -11,7 +11,7 @@
 
 - Em Busca da minha primeira Vaga como **Analista de dados**
 
-- Você me acha através do [lINKEDIN](https://www.linkedin.com/in/gui-ramires-272178337/)
+- Você me acha através do [Linkedin](https://www.linkedin.com/in/guilherme-ramires-272178337/)
 
 - Entre em contato comigo por **gu1.r4m1r3s@gmail.com**
 
