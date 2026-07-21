@@ -3,7 +3,7 @@
 
 </h3>
 
-- Trabalhando recentemente em meu projeto 100% autoral ( SOURCE ) Minha marca de Roupa )
+- Trabalhando recentemente em meu projeto 100% autoral ( SOURCE ) Minha marca de Roupa e TCC [SOURCE](https://github.com/Gu1Ramires/TCC-SOURCE/)
 
 - neste momento estou aprendendo **Power Bi e Machine Learning**
 
@@ -11,7 +11,7 @@
 
 - Em Busca da minha primeira Vaga como **Analista de dados**
 
-- Você me acha através do [https://www.linkedin.com/in/gui-ramires-272178337/](https://www.linkedin.com/in/gui-ramires-272178337/)
+- Você me acha através do [lINKEDIN](https://www.linkedin.com/in/gui-ramires-272178337/)
 
 - Entre em contato comigo por **gu1.r4m1r3s@gmail.com**
 
