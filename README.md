@@ -5,11 +5,9 @@
 
 - Trabalhando recentemente em meu projeto 100% autoral ( SOURCE ) Minha marca de Roupa e TCC [SOURCE](https://github.com/Gu1Ramires/TCC-SOURCE/)
 
-- neste momento estou aprendendo **Power Bi e Machine Learning**
-
 - Trabalho atualmente como Técnico em informática [Innovation Plus](https://innovationplus.com.br/)
 
-- Em Busca da minha primeira Vaga como **Analista de dados**
+- Em Busca da minha primeira Vaga como **UX/UI Designer**
 
 - Você me acha através do [Linkedin](https://www.linkedin.com/in/guilherme-ramires-272178337/)
 
